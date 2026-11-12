@@ -1,0 +1,6 @@
+streamlit>=1.40
+pandas>=2.0
+numpy
+matplotlib
+textblob
+vaderSentiment
